@@ -81,3 +81,4 @@ bundle install
 brew link xy
 ```
 - When you run the project it might take a while to download all the assets please be patient.
+ 
